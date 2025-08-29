@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: ai-terminal
 Version: 2.0.0
 Summary: Natural language shell command interface
-Home-page: https://github.com/SidduJadhav/ai-terminal
+Home-page: https://github.com/SidduJadhav/Terminal-Assitant
 Author: Siddu Jadhav
 Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.11
@@ -31,7 +31,7 @@ A modular, production-ready natural language shell command interface powered by 
 
 ```bash
 # Clone the repository
-git clone https://github.com/SidduJadhav/ai-terminal.git
+git clone https://github.com/SidduJadhav/Terminal-Assitant.git
 cd ai-terminal
 
 # Install in development mode
